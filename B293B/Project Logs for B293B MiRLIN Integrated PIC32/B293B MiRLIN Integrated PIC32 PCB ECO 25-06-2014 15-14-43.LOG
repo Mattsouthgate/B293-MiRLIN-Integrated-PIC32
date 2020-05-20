@@ -1,0 +1,6 @@
+Added Component: Designator=P21(MOLEX SL 4W Vertical with latch)
+Added Pin To Net: NetName=LED0 Pin=P21-1
+Added Pin To Net: NetName=LED1 Pin=P21-2
+Added Pin To Net: NetName=LED2 Pin=P21-3
+Added Pin To Net: NetName=VSS Pin=P21-4
+Added Member To Class: ClassName=U_B293A PIC32 Member=Component P21 MOLEX SL 4W VERT

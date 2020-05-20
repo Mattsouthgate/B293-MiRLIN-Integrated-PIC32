@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LED0 Pin=P21-1
+Removed Pin From Net: NetName=LED1 Pin=P21-2
+Removed Pin From Net: NetName=LED2 Pin=P21-3
+Removed Pin From Net: NetName=VSS Pin=P21-4
+Change Component DesignItemId : Designator=P21 Old DesignItemId=MOLEX SL 4W VERT New DesignItemId=Header 2X2
+Change Component Footprint: Designator=P21 Old Footprint=MOLEX SL 4W Vertical with latch New Footprint=HDR2X2
+Change Component Comment : Designator=P21 Old Comment=MOLEX SL 4W VERT New Comment=Header 2X2
+Added Pin To Net: NetName=VSS Pin=P21-1
+Added Pin To Net: NetName=LED0 Pin=P21-2
+Added Pin To Net: NetName=LED1 Pin=P21-3
+Added Pin To Net: NetName=LED2 Pin=P21-4
