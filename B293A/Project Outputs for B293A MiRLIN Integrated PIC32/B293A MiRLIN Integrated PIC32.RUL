@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\home\Dropbox\Work Files\PCB\B293 MiRLIN Integrated PIC32\B293A\B293A MiRLIN Integrated PIC32.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.92
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Polygon Clearance|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Mechanical Clearance|Scope=Board|Minimum=19.69
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91

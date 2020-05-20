@@ -1,0 +1,457 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\home\Dropbox\Work Files\PCB\B293 MiRLIN Integrated PIC32\B293A\B293A MiRLIN Integrated PIC32.PcbDoc
+Date     : 25/06/2014
+Time     : 12:51:21
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 10uF 25V 0805(2012)" (99.118mm,102.732mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "TSR 1-2490" (-14.665mm,51.425mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "95009-2667" (51.346mm,-1.105mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "95009-2667" (69.761mm,-1.105mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "TSR 1-2450" (-21.215mm,-8.335mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "OPA691IDG4" (23.677mm,113.748mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "1K 5% 0805(2012)" (84.235mm,-1.986mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "1K 5% 0805(2012)" (72.805mm,-3.256mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "6K8 5% 0805(2012)" (192.72mm,-20.731mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "2K2 5% 0805(2012)" (203.656mm,52.809mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "150R 5% 0805(2012)" (260.02mm,-3.731mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "2K2 5% 0805(2012)" (207.708mm,28.699mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "2K2 5% 0805(2012)" (270.204mm,52.869mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "2K2 5% 0805(2012)" (326.72mm,42.979mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "1K2 5% 0805(2012)" (101.978mm,-5.691mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "1K2 5% 0805(2012)" (107.978mm,-2.191mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "27K 5% 0805(2012)" (109.728mm,-2.191mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "10K 5% 0805(2012)" (102.486mm,-1.629mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "150K 5% 0805(2012)" (106.736mm,-6.379mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "1K8 5% 0805(2012)" (94.645mm,128.544mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "680R 1% 0805(2012)" (19.613mm,99.964mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "1K8 5% 0805(2012)" (96.645mm,128.544mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "1K8 5% 0805(2012)" (16.235mm,95.324mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "47R 5% 0805(2012)" (34.253mm,124.494mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "1K8 5% 0805(2012)" (8.235mm,100.484mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "1K8 5% 0805(2012)" (17.375mm,118.384mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "MOLEX SL 5W VERT" (156.324mm,-97.95mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "MOLEX SL 4W VERT" (36.309mm,-124.29mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "MOLEX SL 3W VERT" (169.024mm,-97.28mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "MOLEX SL 3W VERT" (167.754mm,-79.985mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "MOLEX SL 3W VERT" (166.484mm,-62.69mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "Header 10X2" (316.207mm,-13.526mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "Green" (79.104mm,-19.563mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "Green" (85.454mm,-23.373mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "100uH 275mA" (80.349mm,-16.886mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "100uH 275mA" (87.969mm,-16.886mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "Blue" (209.941mm,-23.258mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "SMA Vertical" (226.939mm,-11.601mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 10uF 25V 0805(2012)" (-22.132mm,-8.318mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 10uF 25V 0805(2012)" (-8.397mm,52.927mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 100nF 50V 0805(2012)" (166.42mm,56.371mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 100nF 50V 0805(2012)" (237.744mm,-13.519mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 100nF 50V 0805(2012)" (227.253mm,26.526mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 100nF 50V 0805(2012)" (325.844mm,24.891mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 10uF 25V 0805(2012)" (345.516mm,22.3mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 470pF 50V 0805(2012)" (337.21mm,43.411mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 4.7nF 50V 0805(2012)" (350.291mm,40.058mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 10uF 25V 0805(2012)" (109.728mm,-6.988mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 10nF 25V 0805(2012)" (111.728mm,-6.988mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 100nF 50V 0805(2012)" (93.15mm,129.101mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 10uF 25V 0805(2012)" (91.883mm,127.247mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 100nF 50V 0805(2012)" (85.005mm,92.006mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 100nF 50V 0805(2012)" (85.795mm,94.546mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 100nF 50V 0805(2012)" (21.62mm,102.811mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 1.5nF 50V 0805(2012)" (37.863mm,123.487mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 10uF 25V 0805(2012)" (31.043mm,130.057mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "CAP 100nF 50V 0805(2012)" (27.97mm,127.571mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "Header 6" (50.905mm,-13.665mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "95009-2667" (32.931mm,-1.105mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "S1M-13-F" (97.32mm,-15.323mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "S1M-13-F" (104.86mm,-15.413mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "OPA2228PA" (113.72mm,-2.448mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "10K 5% 0805(2012)" (108.044mm,-14.938mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "1K 5% 0805(2012)" (109.39mm,-10.751mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "0R1" (12.802mm,-3.602mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "10K 5% 0805(2012)" (97.82mm,-63.273mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "10K 5% 0805(2012)" (60.404mm,-116.298mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "10K 5% 0805(2012)" (57.044mm,-116.438mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "10K 5% 0805(2012)" (52.684mm,-116.578mm)  Bottom Overlay
+Rule Violations :69
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+   Violation between Text "R20_X" (109.2mm,4.75mm)  Top Overlay and 
+                     Track (108.89mm,4.66mm)(108.89mm,4.76mm)  Top Overlay
+   Violation between Text "C18_X" (120mm,18.25mm)  Top Overlay and 
+                     Track (117.3mm,19.96mm)(132.54mm,19.96mm)  Top Overlay
+   Violation between Text "CON2_X" (125mm,18.25mm)  Top Overlay and 
+                     Track (117.3mm,19.96mm)(132.54mm,19.96mm)  Top Overlay
+   Violation between Text "C58" (69mm,74.75mm)  Top Overlay and 
+                     Track (71.2mm,74.575mm)(71.3mm,74.575mm)  Top Overlay
+   Violation between Text "20" (28.432mm,26.216mm)  Top Overlay and 
+                     Track (25.13mm,26.47mm)(30.21mm,26.47mm)  Top Overlay
+   Violation between Text "19" (60.252mm,36.441mm)  Top Overlay and 
+                     Track (59.49mm,36.695mm)(64.57mm,36.695mm)  Top Overlay
+   Violation between Text "20" (62.792mm,36.441mm)  Top Overlay and 
+                     Track (59.49mm,36.695mm)(64.57mm,36.695mm)  Top Overlay
+   Violation between Text "19" (119.384mm,54.092mm)  Top Overlay and 
+                     Track (119.13mm,53.33mm)(119.13mm,58.41mm)  Top Overlay
+   Violation between Text "20" (119.384mm,56.632mm)  Top Overlay and 
+                     Track (119.13mm,53.33mm)(119.13mm,58.41mm)  Top Overlay
+   Violation between Text "C49" (82.725mm,58.783mm)  Top Overlay and 
+                     Track (76.158mm,58.787mm)(87.842mm,58.787mm)  Top Overlay
+   Violation between Text "LED1" (90mm,63.5mm)  Top Overlay and 
+                     Track (95.384mm,63.6mm)(95.384mm,65mm)  Top Overlay
+   Violation between Text "R35" (112.75mm,47.75mm)  Top Overlay and 
+                     Track (112.8mm,47.55mm)(113.2mm,47.55mm)  Top Overlay
+   Violation between Text "R35" (112.75mm,47.75mm)  Top Overlay and 
+                     Track (112.8mm,46.7mm)(112.8mm,47.55mm)  Top Overlay
+   Violation between Text "C42" (69.75mm,38.75mm)  Top Overlay and 
+                     Track (70.05mm,42.55mm)(70.05mm,42.65mm)  Top Overlay
+   Violation between Text "LED12" (11.75mm,1.5mm)  Top Overlay and 
+                     Track (8mm,7.4mm)(10mm,7.4mm)  Top Overlay
+   Violation between Text "LED12" (11.75mm,1.5mm)  Top Overlay and 
+                     Track (10mm,2.6mm)(10mm,4mm)  Top Overlay
+   Violation between Text "LED12" (11.75mm,1.5mm)  Top Overlay and 
+                     Track (10.016mm,6mm)(10.016mm,7.4mm)  Top Overlay
+   Violation between Text "U17" (9.25mm,46mm)  Top Overlay and 
+                     Track (9.442mm,47.752mm)(9.442mm,48.768mm)  Top Overlay
+   Violation between Text "U17" (9.25mm,46mm)  Top Overlay and 
+                     Track (9.442mm,48.768mm)(12.142mm,48.768mm)  Top Overlay
+   Violation between Text "U17" (9.25mm,46mm)  Top Overlay and 
+                     Track (9.442mm,47.752mm)(12.142mm,47.752mm)  Top Overlay
+   Violation between Text "U13" (9.25mm,61.75mm)  Top Overlay and 
+                     Track (9.442mm,63.627mm)(9.442mm,64.643mm)  Top Overlay
+   Violation between Text "U13" (9.25mm,61.75mm)  Top Overlay and 
+                     Track (9.442mm,64.643mm)(12.142mm,64.643mm)  Top Overlay
+   Violation between Text "U13" (9.25mm,61.75mm)  Top Overlay and 
+                     Track (9.442mm,63.627mm)(12.142mm,63.627mm)  Top Overlay
+   Violation between Text "R46" (8.75mm,85.5mm)  Top Overlay and 
+                     Track (11.77mm,85.15mm)(13.57mm,85.15mm)  Top Overlay
+   Violation between Text "R46" (8.75mm,85.5mm)  Top Overlay and 
+                     Track (8.17mm,85.15mm)(9.97mm,85.15mm)  Top Overlay
+   Violation between Text "U20" (100mm,9mm)  Top Overlay and 
+                     Track (87.5mm,8.75mm)(107mm,8.75mm)  Top Overlay
+   Violation between Text "R8" (108.455mm,63.532mm)  Top Overlay and 
+                     Track (98.185mm,64.245mm)(108.685mm,64.245mm)  Top Overlay
+   Violation between Text "R8" (108.455mm,63.532mm)  Top Overlay and 
+                     Track (108.685mm,64.245mm)(108.685mm,68.045mm)  Top Overlay
+   Violation between Text "LED7" (40.5mm,85.75mm)  Top Overlay and 
+                     Track (45.2mm,85.641mm)(46.6mm,85.641mm)  Top Overlay
+   Violation between Text "LED7" (40.5mm,85.75mm)  Top Overlay and 
+                     Track (41.8mm,85.6mm)(43.2mm,85.6mm)  Top Overlay
+   Violation between Text "LED7" (40.5mm,85.75mm)  Top Overlay and 
+                     Track (41.8mm,83.6mm)(41.8mm,85.6mm)  Top Overlay
+   Violation between Text "U13" (9.25mm,61.75mm)  Top Overlay and 
+                     Track (2.54mm,63.5mm)(7.62mm,63.5mm)  Top Overlay
+   Violation between Text "U13" (9.25mm,61.75mm)  Top Overlay and 
+                     Track (7.62mm,63.5mm)(7.62mm,71.12mm)  Top Overlay
+   Violation between Text "U17" (9.25mm,46mm)  Top Overlay and 
+                     Track (7.62mm,40.64mm)(7.62mm,48.26mm)  Top Overlay
+   Violation between Text "C44" (79.75mm,32.5mm)  Top Overlay and 
+                     Text "C45" (81.5mm,33.75mm)  Top Overlay
+   Violation between Region (0 hole(s)) Top Overlay and 
+                     Text "U17" (9.25mm,46mm)  Top Overlay
+   Violation between Region (0 hole(s)) Top Overlay and 
+                     Text "U13" (9.25mm,61.75mm)  Top Overlay
+   Violation between Text "C23" (48mm,78.25mm)  Top Overlay and 
+                     Text "R21" (48.5mm,76.5mm)  Top Overlay
+   Violation between Text "C24" (49mm,74.75mm)  Top Overlay and 
+                     Text "R21" (48.5mm,76.5mm)  Top Overlay
+   Violation between Text "R18_X" (113.25mm,10.75mm)  Top Overlay and 
+                     Text "R19_X" (113.25mm,6.75mm)  Top Overlay
+   Violation between Text "R12_X" (111.25mm,5mm)  Top Overlay and 
+                     Text "R19_X" (113.25mm,6.75mm)  Top Overlay
+   Violation between Text "R12_C" (116.75mm,67mm)  Top Overlay and 
+                     Text "R19_C" (117.5mm,68.75mm)  Top Overlay
+   Violation between Text "R11_C" (118.75mm,73mm)  Top Overlay and 
+                     Text "R18_C" (117.75mm,73mm)  Top Overlay
+   Violation between Text "R15_X" (124.5mm,6.25mm)  Top Overlay and 
+                     Text "R17_X" (122.75mm,5mm)  Top Overlay
+   Violation between Text "B293A M&M Single Board M.Southgate 2014" (41.5mm,87.75mm)  Top Overlay and 
+                     Text "R3" (95.5mm,85mm)  Top Overlay
+   Violation between Text "C19_C" (114.5mm,82.75mm)  Top Overlay and 
+                     Text "CON2_C" (109.06mm,86.753mm)  Top Overlay
+   Violation between Text "C24" (49mm,74.75mm)  Top Overlay and 
+                     Text "C29" (49.42mm,73mm)  Top Overlay
+   Violation between Text "C12" (105mm,77mm)  Top Overlay and 
+                     Text "C13" (106.75mm,77mm)  Top Overlay
+   Violation between Text "B293A M&M Single Board M.Southgate 2014" (41.5mm,87.75mm)  Top Overlay and 
+                     Text "C3" (98mm,85mm)  Top Overlay
+   Violation between Text "C33" (38.25mm,53.5mm)  Top Overlay and 
+                     Text "C31" (36.5mm,55.25mm)  Top Overlay
+   Violation between Text "C33" (38.25mm,53.5mm)  Top Overlay and 
+                     Text "C32" (38.25mm,51.75mm)  Top Overlay
+   Violation between Text "R56" (13mm,33mm)  Bottom Overlay and 
+                     Text "R57" (14.75mm,33mm)  Bottom Overlay
+   Violation between Text "C54" (16.5mm,33mm)  Bottom Overlay and 
+                     Text "R57" (14.75mm,33mm)  Bottom Overlay
+Rule Violations :53
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+   Violation between Pad CON2_X-3(125.46mm,11.46mm)  Multi-Layer and 
+                     Arc (128mm,14mm)  Top Overlay
+   Violation between Pad CON2_X-5(125.46mm,16.54mm)  Multi-Layer and 
+                     Arc (128mm,14mm)  Top Overlay
+   Violation between Pad CON2_X-4(130.54mm,11.46mm)  Multi-Layer and 
+                     Arc (128mm,14mm)  Top Overlay
+   Violation between Pad CON2_X-2(130.54mm,16.54mm)  Multi-Layer and 
+                     Arc (128mm,14mm)  Top Overlay
+   Violation between Pad CON4-5(38.04mm,87.54mm)  Multi-Layer and 
+                     Arc (35.5mm,85mm)  Top Overlay
+   Violation between Pad CON4-2(38.04mm,82.46mm)  Multi-Layer and 
+                     Arc (35.5mm,85mm)  Top Overlay
+   Violation between Pad CON4-3(32.96mm,87.54mm)  Multi-Layer and 
+                     Arc (35.5mm,85mm)  Top Overlay
+   Violation between Pad CON4-4(32.96mm,82.46mm)  Multi-Layer and 
+                     Arc (35.5mm,85mm)  Top Overlay
+   Violation between Pad CON8-5(53.86mm,79.06mm)  Multi-Layer and 
+                     Arc (56.4mm,81.6mm)  Top Overlay
+   Violation between Pad CON8-2(53.86mm,84.14mm)  Multi-Layer and 
+                     Arc (56.4mm,81.6mm)  Top Overlay
+   Violation between Pad CON8-3(58.94mm,79.06mm)  Multi-Layer and 
+                     Arc (56.4mm,81.6mm)  Top Overlay
+   Violation between Pad CON8-4(58.94mm,84.14mm)  Multi-Layer and 
+                     Arc (56.4mm,81.6mm)  Top Overlay
+   Violation between Pad CON2_C-5(116.46mm,87.54mm)  Multi-Layer and 
+                     Arc (119mm,85mm)  Top Overlay
+   Violation between Pad CON2_C-2(121.54mm,87.54mm)  Multi-Layer and 
+                     Arc (119mm,85mm)  Top Overlay
+   Violation between Pad CON2_C-3(116.46mm,82.46mm)  Multi-Layer and 
+                     Arc (119mm,85mm)  Top Overlay
+   Violation between Pad CON2_C-4(121.54mm,82.46mm)  Multi-Layer and 
+                     Arc (119mm,85mm)  Top Overlay
+   Violation between Text "C22_X" (116.276mm,1.473mm)  Top Overlay and 
+                     Pad C22_X-1(116.04mm,2.31mm)  Component Side
+   Violation between Track (123.65mm,62.54mm)(123.65mm,63.81mm)  Top Overlay and 
+                     Pad C21_C-1(123.54mm,64.41mm)  Component Side
+   Violation between Track (123.65mm,63.81mm)(131.27mm,63.81mm)  Top Overlay and 
+                     Pad C21_C-1(123.54mm,64.41mm)  Component Side
+   Violation between Text "R13_C" (112.885mm,68.856mm)  Top Overlay and 
+                     Pad R13_C-2(113.79mm,70.81mm)  Component Side
+   Violation between Text "R13_C" (112.885mm,68.856mm)  Top Overlay and 
+                     Pad R13_C-1(113.79mm,69.11mm)  Component Side
+   Violation between Text "R12_C" (116.75mm,67mm)  Top Overlay and 
+                     Pad R19_C-1(119.79mm,69.26mm)  Component Side
+   Violation between Text "C18_X" (120mm,18.25mm)  Top Overlay and 
+                     Pad C18_X-2(119.34mm,18.21mm)  Component Side
+   Violation between Text "R11_X" (122.5mm,10.25mm)  Top Overlay and 
+                     Pad R15_X-2(120.04mm,11.01mm)  Component Side
+   Violation between Text "R12_X" (111.25mm,5mm)  Top Overlay and 
+                     Pad R19_X-1(114.29mm,7.26mm)  Component Side
+   Violation between Text "R20_X" (109.2mm,4.75mm)  Top Overlay and 
+                     Pad R20_X-1(108.29mm,3.76mm)  Component Side
+   Violation between Text "C56" (51.5mm,32.5mm)  Top Overlay and 
+                     Pad U19-22(50.27mm,33.515mm)  Component Side
+   Violation between Text "C58" (69mm,74.75mm)  Top Overlay and 
+                     Pad C58-2(72.05mm,74mm)  Component Side
+   Violation between Text "C58" (69mm,74.75mm)  Top Overlay and 
+                     Pad C58-1(70.45mm,74mm)  Component Side
+   Violation between Text "C57" (69mm,71.5mm)  Top Overlay and 
+                     Pad C57-2(72.15mm,70.5mm)  Component Side
+   Violation between Text "C57" (69mm,71.5mm)  Top Overlay and 
+                     Pad C57-1(70.35mm,70.5mm)  Component Side
+   Violation between Text "C60" (70.5mm,84.5mm)  Top Overlay and 
+                     Pad C61-1(70.9mm,83.5mm)  Component Side
+   Violation between Text "C33" (38.25mm,53.5mm)  Top Overlay and 
+                     Pad C33-1(43.25mm,54.185mm)  Component Side
+   Violation between Text "C34" (38.25mm,48.25mm)  Top Overlay and 
+                     Pad C34-1(43.25mm,49.375mm)  Component Side
+   Violation between Text "C49" (82.725mm,58.783mm)  Top Overlay and 
+                     Pad Y1-1(86.25mm,61.2mm)  Component Side
+   Violation between Text "C16" (110mm,69.25mm)  Top Overlay and 
+                     Pad C16-1(111mm,70.5mm)  Component Side
+   Violation between Text "C16" (110mm,69.25mm)  Top Overlay and 
+                     Pad C16-2(111mm,72.5mm)  Component Side
+   Violation between Text "C45" (81.5mm,33.75mm)  Top Overlay and 
+                     Pad C45-2(82.2mm,36.7mm)  Component Side
+   Violation between Text "C42" (69.75mm,38.75mm)  Top Overlay and 
+                     Pad R36-2(70.6mm,41.75mm)  Component Side
+   Violation between Track (13.7mm,50.435mm)(13.7mm,52.435mm)  Top Overlay and 
+                     Pad R53-1(12.7mm,51.435mm)  Component Side
+   Violation between Track (11.9mm,50.435mm)(13.7mm,50.435mm)  Top Overlay and 
+                     Pad R53-1(12.7mm,51.435mm)  Component Side
+   Violation between Track (11.9mm,52.435mm)(13.7mm,52.435mm)  Top Overlay and 
+                     Pad R53-1(12.7mm,51.435mm)  Component Side
+   Violation between Track (8.3mm,50.435mm)(8.3mm,52.435mm)  Top Overlay and 
+                     Pad R53-2(9.271mm,51.435mm)  Component Side
+   Violation between Track (8.3mm,50.435mm)(10.1mm,50.435mm)  Top Overlay and 
+                     Pad R53-2(9.271mm,51.435mm)  Component Side
+   Violation between Track (8.3mm,52.435mm)(10.1mm,52.435mm)  Top Overlay and 
+                     Pad R53-2(9.271mm,51.435mm)  Component Side
+   Violation between Track (13.57mm,83.15mm)(13.57mm,85.15mm)  Top Overlay and 
+                     Pad R46-1(12.57mm,84.15mm)  Component Side
+   Violation between Track (11.77mm,83.15mm)(13.57mm,83.15mm)  Top Overlay and 
+                     Pad R46-1(12.57mm,84.15mm)  Component Side
+   Violation between Track (11.77mm,85.15mm)(13.57mm,85.15mm)  Top Overlay and 
+                     Pad R46-1(12.57mm,84.15mm)  Component Side
+   Violation between Track (8.17mm,83.15mm)(8.17mm,85.15mm)  Top Overlay and 
+                     Pad R46-2(9.141mm,84.15mm)  Component Side
+   Violation between Track (8.17mm,83.15mm)(9.97mm,83.15mm)  Top Overlay and 
+                     Pad R46-2(9.141mm,84.15mm)  Component Side
+   Violation between Track (8.17mm,85.15mm)(9.97mm,85.15mm)  Top Overlay and 
+                     Pad R46-2(9.141mm,84.15mm)  Component Side
+   Violation between Track (13.57mm,66.64mm)(13.57mm,68.64mm)  Top Overlay and 
+                     Pad R41-1(12.57mm,67.64mm)  Component Side
+   Violation between Track (11.77mm,66.64mm)(13.57mm,66.64mm)  Top Overlay and 
+                     Pad R41-1(12.57mm,67.64mm)  Component Side
+   Violation between Track (11.77mm,68.64mm)(13.57mm,68.64mm)  Top Overlay and 
+                     Pad R41-1(12.57mm,67.64mm)  Component Side
+   Violation between Track (8.17mm,66.64mm)(8.17mm,68.64mm)  Top Overlay and 
+                     Pad R41-2(9.141mm,67.64mm)  Component Side
+   Violation between Track (8.17mm,66.64mm)(9.97mm,66.64mm)  Top Overlay and 
+                     Pad R41-2(9.141mm,67.64mm)  Component Side
+   Violation between Track (8.17mm,68.64mm)(9.97mm,68.64mm)  Top Overlay and 
+                     Pad R41-2(9.141mm,67.64mm)  Component Side
+   Violation between Text "R8" (108.455mm,63.532mm)  Top Overlay and 
+                     Pad U2-13(107.01mm,62.645mm)  Component Side
+   Violation between Text "R8" (108.455mm,63.532mm)  Top Overlay and 
+                     Pad U2-14(107.66mm,62.645mm)  Component Side
+   Violation between Text "R19_C" (117.5mm,68.75mm)  Top Overlay and 
+                     Pad U3_C-6(115.88mm,71.02mm)  Multi-Layer
+   Violation between Text "R19_C" (117.5mm,68.75mm)  Top Overlay and 
+                     Pad U3_C-5(115.88mm,68.48mm)  Multi-Layer
+   Violation between Text "R12_C" (116.75mm,67mm)  Top Overlay and 
+                     Pad U3_C-5(115.88mm,68.48mm)  Multi-Layer
+   Violation between Track (131.2mm,10.8mm)(131.2mm,17.2mm)  Top Overlay and 
+                     Pad CON2_X-4(130.54mm,11.46mm)  Multi-Layer
+   Violation between Track (124.8mm,10.8mm)(131.2mm,10.8mm)  Top Overlay and 
+                     Pad CON2_X-4(130.54mm,11.46mm)  Multi-Layer
+   Violation between Track (124.8mm,10.8mm)(124.8mm,17.2mm)  Top Overlay and 
+                     Pad CON2_X-3(125.46mm,11.46mm)  Multi-Layer
+   Violation between Track (124.8mm,10.8mm)(131.2mm,10.8mm)  Top Overlay and 
+                     Pad CON2_X-3(125.46mm,11.46mm)  Multi-Layer
+   Violation between Track (131.2mm,10.8mm)(131.2mm,17.2mm)  Top Overlay and 
+                     Pad CON2_X-2(130.54mm,16.54mm)  Multi-Layer
+   Violation between Track (124.8mm,17.2mm)(131.2mm,17.2mm)  Top Overlay and 
+                     Pad CON2_X-2(130.54mm,16.54mm)  Multi-Layer
+   Violation between Text "CON2_X" (125mm,18.25mm)  Top Overlay and 
+                     Pad CON2_X-2(130.54mm,16.54mm)  Multi-Layer
+   Violation between Track (124.8mm,10.8mm)(124.8mm,17.2mm)  Top Overlay and 
+                     Pad CON2_X-5(125.46mm,16.54mm)  Multi-Layer
+   Violation between Track (124.8mm,17.2mm)(131.2mm,17.2mm)  Top Overlay and 
+                     Pad CON2_X-5(125.46mm,16.54mm)  Multi-Layer
+   Violation between Text "CON2_X" (125mm,18.25mm)  Top Overlay and 
+                     Pad CON2_X-5(125.46mm,16.54mm)  Multi-Layer
+   Violation between Track (32.3mm,81.8mm)(32.3mm,88.2mm)  Top Overlay and 
+                     Pad CON4-4(32.96mm,82.46mm)  Multi-Layer
+   Violation between Track (32.3mm,81.8mm)(38.7mm,81.8mm)  Top Overlay and 
+                     Pad CON4-4(32.96mm,82.46mm)  Multi-Layer
+   Violation between Track (32.3mm,81.8mm)(32.3mm,88.2mm)  Top Overlay and 
+                     Pad CON4-3(32.96mm,87.54mm)  Multi-Layer
+   Violation between Track (32.3mm,88.2mm)(38.7mm,88.2mm)  Top Overlay and 
+                     Pad CON4-3(32.96mm,87.54mm)  Multi-Layer
+   Violation between Track (38.7mm,81.8mm)(38.7mm,88.2mm)  Top Overlay and 
+                     Pad CON4-2(38.04mm,82.46mm)  Multi-Layer
+   Violation between Track (32.3mm,81.8mm)(38.7mm,81.8mm)  Top Overlay and 
+                     Pad CON4-2(38.04mm,82.46mm)  Multi-Layer
+   Violation between Track (38.7mm,81.8mm)(38.7mm,88.2mm)  Top Overlay and 
+                     Pad CON4-5(38.04mm,87.54mm)  Multi-Layer
+   Violation between Track (32.3mm,88.2mm)(38.7mm,88.2mm)  Top Overlay and 
+                     Pad CON4-5(38.04mm,87.54mm)  Multi-Layer
+   Violation between Track (8.82mm,17.88mm)(8.82mm,20.88mm)  Top Overlay and 
+                     Pad F1-1(10.03mm,19.38mm)  Multi-Layer
+   Violation between Track (8.82mm,17.88mm)(16.32mm,17.88mm)  Top Overlay and 
+                     Pad F1-1(10.03mm,19.38mm)  Multi-Layer
+   Violation between Track (8.82mm,20.88mm)(16.32mm,20.88mm)  Top Overlay and 
+                     Pad F1-1(10.03mm,19.38mm)  Multi-Layer
+   Violation between Track (16.32mm,17.88mm)(16.32mm,20.88mm)  Top Overlay and 
+                     Pad F1-2(15.11mm,19.38mm)  Multi-Layer
+   Violation between Track (8.82mm,17.88mm)(16.32mm,17.88mm)  Top Overlay and 
+                     Pad F1-2(15.11mm,19.38mm)  Multi-Layer
+   Violation between Track (8.82mm,20.88mm)(16.32mm,20.88mm)  Top Overlay and 
+                     Pad F1-2(15.11mm,19.38mm)  Multi-Layer
+   Violation between Text "R12_X" (111.25mm,5mm)  Top Overlay and 
+                     Pad U3_X-5(110.38mm,6.48mm)  Multi-Layer
+   Violation between Track (24.06mm,9.19mm)(31.68mm,9.19mm)  Top Overlay and 
+                     Pad Free-2(27mm,5mm)  Multi-Layer
+   Violation between Track (59.6mm,78.4mm)(59.6mm,84.8mm)  Top Overlay and 
+                     Pad CON8-4(58.94mm,84.14mm)  Multi-Layer
+   Violation between Track (53.2mm,84.8mm)(59.6mm,84.8mm)  Top Overlay and 
+                     Pad CON8-4(58.94mm,84.14mm)  Multi-Layer
+   Violation between Text "CON8" (53.5mm,85.75mm)  Top Overlay and 
+                     Pad CON8-4(58.94mm,84.14mm)  Multi-Layer
+   Violation between Track (59.6mm,78.4mm)(59.6mm,84.8mm)  Top Overlay and 
+                     Pad CON8-3(58.94mm,79.06mm)  Multi-Layer
+   Violation between Track (53.2mm,78.4mm)(59.6mm,78.4mm)  Top Overlay and 
+                     Pad CON8-3(58.94mm,79.06mm)  Multi-Layer
+   Violation between Track (53.2mm,84.8mm)(53.2mm,78.4mm)  Top Overlay and 
+                     Pad CON8-2(53.86mm,84.14mm)  Multi-Layer
+   Violation between Track (53.2mm,84.8mm)(59.6mm,84.8mm)  Top Overlay and 
+                     Pad CON8-2(53.86mm,84.14mm)  Multi-Layer
+   Violation between Text "CON8" (53.5mm,85.75mm)  Top Overlay and 
+                     Pad CON8-2(53.86mm,84.14mm)  Multi-Layer
+   Violation between Track (53.2mm,84.8mm)(53.2mm,78.4mm)  Top Overlay and 
+                     Pad CON8-5(53.86mm,79.06mm)  Multi-Layer
+   Violation between Track (53.2mm,78.4mm)(59.6mm,78.4mm)  Top Overlay and 
+                     Pad CON8-5(53.86mm,79.06mm)  Multi-Layer
+   Violation between Track (115.8mm,81.8mm)(122.2mm,81.8mm)  Top Overlay and 
+                     Pad CON2_C-4(121.54mm,82.46mm)  Multi-Layer
+   Violation between Track (122.2mm,81.8mm)(122.2mm,88.2mm)  Top Overlay and 
+                     Pad CON2_C-4(121.54mm,82.46mm)  Multi-Layer
+   Violation between Track (115.8mm,81.8mm)(115.8mm,88.2mm)  Top Overlay and 
+                     Pad CON2_C-3(116.46mm,82.46mm)  Multi-Layer
+   Violation between Track (115.8mm,81.8mm)(122.2mm,81.8mm)  Top Overlay and 
+                     Pad CON2_C-3(116.46mm,82.46mm)  Multi-Layer
+   Violation between Track (115.8mm,88.2mm)(122.2mm,88.2mm)  Top Overlay and 
+                     Pad CON2_C-2(121.54mm,87.54mm)  Multi-Layer
+   Violation between Track (122.2mm,81.8mm)(122.2mm,88.2mm)  Top Overlay and 
+                     Pad CON2_C-2(121.54mm,87.54mm)  Multi-Layer
+   Violation between Track (115.8mm,81.8mm)(115.8mm,88.2mm)  Top Overlay and 
+                     Pad CON2_C-5(116.46mm,87.54mm)  Multi-Layer
+   Violation between Track (115.8mm,88.2mm)(122.2mm,88.2mm)  Top Overlay and 
+                     Pad CON2_C-5(116.46mm,87.54mm)  Multi-Layer
+   Violation between Track (17.38mm,21.86mm)(17.38mm,23.66mm)  Bottom Overlay and 
+                     Pad R40-1(18.38mm,22.66mm)  Solder Side
+   Violation between Track (19.38mm,21.86mm)(19.38mm,23.66mm)  Bottom Overlay and 
+                     Pad R40-1(18.38mm,22.66mm)  Solder Side
+   Violation between Track (17.38mm,23.66mm)(19.38mm,23.66mm)  Bottom Overlay and 
+                     Pad R40-1(18.38mm,22.66mm)  Solder Side
+   Violation between Track (17.38mm,18.26mm)(17.38mm,20.06mm)  Bottom Overlay and 
+                     Pad R40-2(18.38mm,19.231mm)  Solder Side
+   Violation between Track (19.38mm,18.26mm)(19.38mm,20.06mm)  Bottom Overlay and 
+                     Pad R40-2(18.38mm,19.231mm)  Solder Side
+   Violation between Track (17.38mm,18.26mm)(19.38mm,18.26mm)  Bottom Overlay and 
+                     Pad R40-2(18.38mm,19.231mm)  Solder Side
+Rule Violations :112
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+   Violation between Pad U6-3(112.5mm,46mm)  Component Side and 
+                     Pad U6-2(114.5mm,46.95mm)  Component Side
+Rule Violations :1
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.5mm) (Conductor Width=0.3mm) (Air Gap=0.3mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.25mm) (Max=3mm) (Preferred=1mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (InPolygon),(IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (InPoly),(OnLayer('Keep-Out Layer'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 235
+Time Elapsed        : 00:00:05

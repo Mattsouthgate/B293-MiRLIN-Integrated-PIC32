@@ -1,0 +1,73 @@
+Field=Comment~String~Comment~141|Field=Description~String~Description~888|Field=Designator~String~Designator~530|Field=Footprint~String~Footprint~173|Field=Quantity~Integer~Quantity~68|Field=Supplier~String~Supplier~66|Field=Supplier Order Code~String~Supplier Order Code~129|Field=Supplier Part Number~String~Supplier Part Number~133|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~B293A MiRLIN Integrated PIC32.PrjPcb|ReportField=ProjectFullPath~C:\Users\home\Dropbox\Work Files\PCB\B293 MiRLIN Integrated PIC32\B293A MiRLIN Integrated PIC32.PrjPcb|ReportField=Title~Bill of Materials For Variant [Normal] of Project [B293A MiRLIN Integrated PIC32.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~223|ReportField=ReportTime~23:21:57|ReportField=ReportDate~18/04/2014|ReportField=ReportDateTime~18/04/2014 23:21:57|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~Normal|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~18/04/2014|ReportField=CurrentTime~23:19:43|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\home\Dropbox\Work Files\PCB\B293 MiRLIN Integrated PIC32\B293A Top.SchDoc|ReportField=DocumentName~B293A Top.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~18/04/2014|ReportField=Organization~|ReportField=ProjectName~B293A MiRLIN Integrated PIC32.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.39|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=15|PrintQuality=600|MediaType=1|DitherType=10|PaperKind=A3|PrintScaleMode=1|ReportField=DataSourceFileName~B293A MiRLIN Integrated PIC32.PrjPcb|ReportField=DataSourceFullPath~C:\Users\home\Dropbox\Work Files\PCB\B293 MiRLIN Integrated PIC32\B293A MiRLIN Integrated PIC32.PrjPcb
+CAP 100nF 50V 0805(2012)|CAP 100nF 50V ±20% 0805 (2012 Metric) Thickness 0.75mm SMD|C1, C4, C5, C7, C8, C10, C11, C13, C14, C15, C17|CAPC0805(2012)75_L|11|||
+CAP 10uF 25V 0805(2012)|CAP 10uF 25V ±20% 0805 (2012 Metric) Thickness 1.45mm SMD|C2, C6, C9, C12, C19_C, C19_X, C22_C, C22_X, C25, C32, C35, C37, C43, C51, C52, C53, C54, C55, C57, C61|CAPC0805(2012)145_N|20|||
+CAP 1.5nF 50V 0805(2012)|CAP 1.5nF 50V ±10% 0805 (2012 Metric) Thickness 0.75mm SMD|C3|CAPC0805(2012)75_M|1|||
+CAP 2.2uF 50V 0805(2012)|CAP 2.2uF 50V ±10% 0805 (2012 Metric) Thickness 1.45mm SMD|C16|CAPC0805(2012)145_M|1|||
+CAP 47pF 50V 0805(2012)|CAP 47pF 50V ±5% 0805 (2012 Metric) Thickness 0.75mm SMD|C18_C, C18_X|CAPC0805(2012)75_L|2|||
+CAP 10nF 25V 0805(2012)|CAP 10nF 25V ±10% 0805 (2012 Metric) Thickness 0.75mm SMD|C20_C, C20_X, C21_C, C21_X, C58, C60|CAPC0805(2012)75_L|6|||
+CAP 4.7nF 50V 0805(2012)|CAP 4.7nF 50V ±10% 0805 (2012 Metric) Thickness 0.75mm SMD|C23|CAPC0805(2012)75_M|1|||
+CAP 470pF 50V 0805(2012)|CAP 470pF 50V ±10% 0805 (2012 Metric) Thickness 1mm SMD|C24|CAPC0805(2012)100_M|1|||
+CAP 100nF 50V 0805(2012)|CAP 100nF 50V ±20% 0805 (2012 Metric) Thickness 1mm SMD|C26, C27, C28, C29, C30, C31, C33, C34, C56|CAPC0805(2012)100_M|9|||
+CAP 120nF 50V 0805(2012)|CAP 120nF 50V ±20% 0805 (2012 Metric) Thickness 1.45mm SMD|C36|CAPC0805(2012)145_N|1|||
+CAP 100nF 50V 1206(3216)|CAP 100nF 50V ±10% 1206 (3216 Metric) Thickness 1.7mm SMD|C38|CAPC1206(3216)170_L|1|||
+CAP 1uF 25V 0805(2012)|CAP 1uF 25V ±20% 0805 (2012 Metric) Thickness 1mm SMD|C39, C42|CAPC0805(2012)100_N|2|||
+CAP 15pF 50V 0805(2012)|CAP 15pF 50V ±10% 0805 (2012 Metric) Thickness 0.75mm SMD|C40, C41|CAPC0805(2012)75_L|2|||
+CAP 100nF 50V 0603(1608)|CAP 100nF 50V ±10% 0603 (1608 Metric) Thickness 1mm SMD|C44, C45, C46, C47, C48, C49, C50|CAPC0603(1608)100_N|7|||
+CAP 1nF 50V 0805(2012)|CAP 1nF 50V ±5% 0805 (2012 Metric) Thickness 0.75mm SMD|C59|CAPC0805(2012)75_N|1|||
+CAP 47uF 25V 2220(5750)|CAP 47uF 25V -20% to +80% 2220 (5750 Metric) Thickness 2.2mm SMD|C62|CAPC2220(5750)230_N|1|||
+SMA Vertical||CON2_C, CON2_X, CON4, CON8|SMA Vertical|4|Onecall||
+S1M-13-F|Surface Mount Glass Passivated Rectifier, 1000V, 1 A, -65 to 125 degC, 2-Pin SMA Package, RoHS, Tape and Reel|D1, D2, D3, D4, D5|DIOD-S1M-13-F-SMA-2_V|5|||
+0.4A|POLYSWITCH, RADIAL, 0.4A|F1|RXEF040|1|Farnell|1175862|
+95009-2667|Right Angle, Standard Profile, Flush Mount PCB Jack|J1, J2, J3|95009-2667|3|||
+Blue||L1|1206 - LED|1|||
+100uH 275mA|Power Inductor|L2, L3, L4, L5|AXIAL-0.4|4|Farnell||
+Red|LED, ALINGAP, SMD, 1206, RED|LED1, LED3|1206 - LED|2|Farnell||
+Green|LED, SMD, 1206, CLR LENS, GREEN|LED2, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12|1206 - LED|9|Farnell||
+Yellow|LED, ALINGAP, SMD, 1206, YELLOW|LED4|1206 - LED|1|Farnell||
+Header 10X2|Header, 10-Pin, Dual row|P1, P3, P13|HDR2X10|3|||
+Header 2|Header, 2-Pin|P2_C, P2_X|HDR1X2|2|||
+MOLEX SL 3W VERT|MOLEX - 70543-0037 - WIRE-BOARD CONNECTOR HEADER 3POS, 2.54MM|P4, P5, P6|MOLEX SL 3W Vertical with latch|3|Farnell||
+MOLEX SL 4W VERT|MOLEX - 70543-0108 - CONNECTOR, HEADER, 4POS, 1ROW, 2.54MM|P7|MOLEX SL 4W Vertical with latch|1|Farnell||
+MOLEX SL 5W VERT|MOLEX - 70543-0004 - CONNECTOR, HEADER, 5POS, 1ROW, 2.54MM|P8|MOLEX SL 5W Vertical with latch|1|Farnell||
+MOLEX SL 2W VERT|MOLEX - 70543-0106 - CONNECTOR, HEADER, 2POS, 1ROW, 2.54MM|P9, P10, P11, P12, P14, P15, P16, P17|MOLEX SL 2W Vertical with latch|8|Farnell||
+Header 6|Header, 6-Pin|P18, P19, P20|HDR1X6|3|||
+1K8 5% 0805(2012)|1K8 0.125W 5% 0805 (2012 Metric)  SMD|R1, R2, R4, R5, R7|RESC0805(2012)_N|5|||
+47R 5% 0805(2012)|47R 0.125W 5% 0805 (2012 Metric)  SMD|R3|RESC0805(2012)_M|1|||
+680R 1% 0805(2012)|680R 0.125W 1% 0805 (2012 Metric)  SMD|R6|RESC0805(2012)_L|1|||
+10K 1% 0805(2012)|10K 0.125W 1% 0805 (2012 Metric)  SMD|R8|RESC0805(2012)_M|1|||
+1K 5% 0805(2012)|1K 0.125W 5% 0805 (2012 Metric)  SMD|R9, R32, R37, R38, R39, R42, R43, R48, R50, R51, R52, R54, R56, R59, R61, R70|RESC0805(2012)_N|16|||
+1K5 5% 0805(2012)|1K5 0.125W 5% 0805 (2012 Metric)  SMD|R10_C, R10_X|RESC0805(2012)_L|2|||
+100K 5% 0805(2012)|100K 0.125W 5% 0805 (2012 Metric)  SMD|R11_C, R11_X|RESC0805(2012)_L|2|||
+150K 5% 0805(2012)|150K 0.125W 5% 0805 (2012 Metric)  SMD|R12_C, R12_X|RESC0805(2012)_N|2|||
+10K 5% 0805(2012)|10K 0.125W 5% 0805 (2012 Metric)  SMD|R13_C, R13_X, R14_C, R14_X, R27, R28, R29, R30, R31, R33, R34, R49, R55, R57, R58, R62, R72|RESC0805(2012)_L|17|||
+100R 5% 0805(2012)|100R 0.125W 5% 0805 (2012 Metric)  SMD|R15_C, R15_X, R16_C, R16_X, R65, R67, R69|RESC0805(2012)_M|7|||
+27K 5% 0805(2012)|27K 0.125W 5% 0805 (2012 Metric)  SMD|R17_C, R17_X, R66|RESC0805(2012)_L|3|||
+330R 5% 0805(2012)|330R 0.125W 5% 0805 (2012 Metric)  SMD|R18_C, R18_X|RESC0805(2012)_L|2|||
+1K2 5% 0805(2012)|1K2 0.125W 5% 0805 (2012 Metric)  SMD|R19_C, R19_X, R20_C, R20_X|RESC0805(2012)_N|4|||
+2K2 5% 0805(2012)|2K2 0.125W 5% 0805 (2012 Metric)  SMD|R21, R22, R23, R25, R63, R64|RESC0805(2012)_L|6|||
+150R 5% 0805(2012)|150R 0.125W 5% 0805 (2012 Metric)  SMD|R24|RESC0805(2012)_N|1|||
+6K8 5% 0805(2012)|6K8 0.125W 5% 0805 (2012 Metric)  SMD|R26, R47|RESC0805(2012)_L|2|||
+10R 5% 0805(2012)|10R 0.125W 5% 0805 (2012 Metric)  SMD|R35|RESC0805(2012)_L|1|||
+220R 5% 0805(2012)|220R 0.125W 5% 0805 (2012 Metric)  SMD|R36, R45, R60|RESC0805(2012)_L|3|||
+0R1|RESISTOR, THICK, 0.1OHM, 0.25W, 1%, 1206|R40|1206|1|Farnell||
+0R022|RESISTOR, CURRENT SENSE, 0R022, 0.5W, 1%|R41, R46, R53|1206|3|Farnell||
+390R 5% 0805(2012)|390R 0.125W 5% 0805 (2012 Metric)  SMD|R44|RESC0805(2012)_N|1|||
+3K3 5% 0805(2012)|3K3 0.125W 5% 0805 (2012 Metric)  SMD|R68|RESC0805(2012)_M|1|||
+10R 1% 0805(2012)|10R 0.125W 1% 0805 (2012 Metric)  SMD|R71|RESC0805(2012)_M|1|||
+OPA691IDG4|Wideband Current Feedback Operational Amplifier with Disable, 5 to 12 V, -40 to 85 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)|U1|TI-D8_N|1|||
+ADS805EG4|12-Bit, 20 MSPS ADC Internal / External Reference, Flexible Input between 2 and 5 Vpp, Out of Range Indicator, -40 to 85 degC, 28-pin SOP (DB28), Green (RoHS & no Sb/Br)|U2|TI-DB28_M|1|||
+OPA2228PA|High Precision, Low Noise Operational Amplifier, 5 to 36 V, -55 to 125 degC, 8-pin DIP (P8), Green (RoHS & no Sb/Br)|U3_C, U3_X|TI-P8|2|||
+OP37GPZ|Single Channel Low Noise Operational Amplifier, 63 MHz BW, 17 V/us SR, Industrial, 8-pin DIP (N-8), Tube|U4|ADI-N-8|1|||
+LTC1668||U5|SOP65P800X200-28N|1|||
+MCP9701AT-E/TT|Low-Power Linear Active Thermistor IC, 3-Pin SOT-23, Extended Temperature, Tape and Reel|U6|SOT-23-TT3_M|1|||
+PIC16F1516-E/SO|Flash Microcontroller with XLP Technology, 20 MHz, 24 I/O, -40 to 125 degC, 28-pin SOIC (SO28), Tube|U7, U19|MCHP-SOIC-SO28_N|2|||
+PIC32MX795F512L-80I/PF|High Performance 80 MHz MIPS-Based 32-Bit Flash Microcontroller with USB, CAN and Ethernet, 512KB Program Memory, 100-pin TQFP, Industrial Temperature|U9|TQFP-PF100_L|1|||
+TC1262-3.3VDB|500mA Fixed Output CMOS LDO, 3-Pin SOT-223, Extended Temperature|U10|SOT-223-DB3_L|1|||
+TSR 1-24150|CONVERTER, DC TO DC, 24V TO 15V, 15W|U11|TSR-1 Series|1|Farnell||
+ZXCT1081|CURRENT MONITOR, PRECISION, 40V|U12|SOT23-5|1|Farnell||
+ZXCT1022||U13, U15, U17|SOT23-5|3|||
+TSR 1-2490|DC/DC CONVERTER, 9V, 1A,|U14|TSR-1 Series|1|Farnell||
+TSR 1-2450|CONVERTER, DC/DC, 5V, 1A, SIP|U16, U18|TSR-1 Series|2|Farnell||
+TMH2405D|Isolated output|U20|TMH2 Dual output|1|Onecall||
+OPA2228PAG4|High Precision, Low Noise Operational Amplifier, 5 to 36 V, -55 to 125 degC, 8-pin DIP (P8), Green (RoHS & no Sb/Br)|U21|TI-P8|1|||
+8MHz|CRYSTAL, 8MHZ, 16PF, SMD|Y1|CRYSTAL_HC49-US-SM|1|Onecall||1667012
